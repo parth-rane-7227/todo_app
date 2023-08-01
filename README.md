@@ -20,4 +20,6 @@ A Todo App is a simple web application designed to help users manage their daily
 ![Screenshot (116)](https://github.com/parth-rane-7227/todo_app/assets/90836282/815facd0-9932-4c40-b20f-935765f328e9)
 ![Screenshot (117)](https://github.com/parth-rane-7227/todo_app/assets/90836282/6fe045db-932d-4390-bb24-dd66b3e89d0a)
 ![Screenshot (118)](https://github.com/parth-rane-7227/todo_app/assets/90836282/9bf3a267-549f-46c7-89c9-9c87983707fe)
+![Screenshot (119)](https://github.com/parth-rane-7227/todo_app/assets/90836282/5eaf900a-ff64-4695-912b-4ba6caecc8ae)
+![Screenshot (120)](https://github.com/parth-rane-7227/todo_app/assets/90836282/0161eb85-e986-4abd-8580-1de3e0f696d5)
 
