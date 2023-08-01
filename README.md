@@ -16,4 +16,5 @@ A Todo App is a simple web application designed to help users manage their daily
 #### ✔️ Deployment: `Netlify`
 
 # ScreenShots📷
+![Screenshot (115)](https://github.com/parth-rane-7227/todo_app/assets/90836282/836813b7-9d52-446f-92be-2232de62a957)
 
