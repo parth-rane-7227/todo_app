@@ -12,7 +12,7 @@ A Todo App is a simple web application designed to help users manage their daily
 
 # Technologies🛠️
 #### ✔️ Front-end: `JavaScript`, `HTML5`, `CSS3`, `Bootstrap`
-#### ✔️ Version Control: `Git`, `GitHub`
+#### ✔️ Version Control: `GitHub`
 #### ✔️ Deployment: `Netlify`
 
 # ScreenShots📷
