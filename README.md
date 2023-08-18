@@ -1,5 +1,5 @@
 # Todo_app
-A Todo App is a simple web application designed to help users manage their daily tasks and stay organized. It allows users to create and delete tasks that need to be done, making it easier to keep track of various activities and responsibilities.
+A Todo App is a simple web application designed to help users manage their daily tasks and stay organized. It allows users to create and delete tasks that need to be done, making it easier to keep track of various activities & responsibilities.
 
 # Website🖇️
 [Click Here](https://parthtodoapp.netlify.app/)
